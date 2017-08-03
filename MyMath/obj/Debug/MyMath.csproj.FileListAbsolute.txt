@@ -1,0 +1,5 @@
+F:\githubProjects\Hello\Hello\MyMath\MyMath\bin\Debug\MyMath.dll
+F:\githubProjects\Hello\Hello\MyMath\MyMath\bin\Debug\MyMath.pdb
+F:\githubProjects\Hello\Hello\MyMath\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
+F:\githubProjects\Hello\Hello\MyMath\MyMath\obj\Debug\MyMath.dll
+F:\githubProjects\Hello\Hello\MyMath\MyMath\obj\Debug\MyMath.pdb
